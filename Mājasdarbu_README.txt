@@ -1,0 +1,7 @@
+Pirmais mājas darbs - 
+Otrais mājas darbs - MD2_screenshot.png, MD2.txt un MD2_1.txt
+Trešais mājas darbs par datu tipiem - Project_apChii/md3.py
+Ceturtais mājas darbs par cikliem (while, for, range) - Project_apChii/md4.py Cikli parādīti ar sekunžu skaitītāju palīdzību.
+Piektais, sestais un septītais mājas darbs - Project_apChii/md5_6_7.py Vienkāršs kalkulators, kurā ir izņēmums dalīšanā ar 0 un modulis, kas importēts no cita faila.
+Astotais mājas darbs - Project_apChii/md8.py Čekoju System logus pēc parametra USB. Dati sakārtoti. 
+Devītais mājas darbs - Project_apChii/md9.py Čekoju direktoriju un failu koku mapēs.
